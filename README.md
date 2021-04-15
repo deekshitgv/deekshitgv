@@ -9,9 +9,7 @@
 
 
 ##Skills:
- * Python, R, •	Tableau![image](https://user-images.githubusercontent.com/16990183/114910776-33c5c400-9e16-11eb-9bf6-329fd61dbd2d.png)
- * Python![image](https://user-images.githubusercontent.com/16990183/114910924-5e178180-9e16-11eb-89c3-947e4b806592.png)
-
+ *Python, R, Tableau, SQL, Apache Spark, SparkSQL, Hadoop, C, Java, HTML/CSS, Data Warehousing, Data Analysis and Modelling*
 
 <!---
 deekshitgv/deekshitgv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
