@@ -8,8 +8,7 @@
 - 📫 How to reach me deekshitgv@yahoo.com, [LinkedIn](https://www.linkedin.com/in/deekshitgv/)
 
 
-##Skills:
-
+## Skills:
 *Python, R, Tableau, SQL, Apache Spark, SparkSQL, Hadoop, C, Java, HTML/CSS, Data Warehousing, Data Analysis and Modelling*
 
 <!---
