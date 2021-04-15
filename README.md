@@ -9,7 +9,8 @@
 
 
 ##Skills:
- *Python, R, Tableau, SQL, Apache Spark, SparkSQL, Hadoop, C, Java, HTML/CSS, Data Warehousing, Data Analysis and Modelling*
+
+*Python, R, Tableau, SQL, Apache Spark, SparkSQL, Hadoop, C, Java, HTML/CSS, Data Warehousing, Data Analysis and Modelling*
 
 <!---
 deekshitgv/deekshitgv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
