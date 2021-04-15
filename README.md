@@ -1,10 +1,10 @@
 ### Hello, Welcome!
  
  
-- 👋 I’m deekshit
-- 👀 I’m interested in data engineer and data analyst roles
-- 🌱 I’m currently learning data engineering
-- 💞️ I’m looking to collaborate on data science projects
+- 👋 I’m deekshit.
+- 👀 I’m interested in data engineer and data analyst roles.
+- 🌱 I’m currently learning data engineering.
+- 💞️ I’m looking to collaborate on data science projects.
 - 📫 How to reach me deekshitgv@yahoo.com, [LinkedIn](https://www.linkedin.com/in/deekshitgv/)
 
 
